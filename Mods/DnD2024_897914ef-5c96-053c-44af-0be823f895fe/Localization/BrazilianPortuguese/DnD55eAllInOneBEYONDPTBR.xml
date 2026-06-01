@@ -309,7 +309,7 @@
 	<content contentuid="hfd6115a2g072eg747bg10e1gc93f7616eafe" version="1">Sempre que você ativar seu Segundo Fôlego com uma Ação Bônus, poderá se mover até a metade da sua Velocidade sem provocar Ataques de Oportunidade.</content>
 	<content contentuid="h62511cd9g27d2g5cbcga820gbb50c459d998" version="1">Nível 9: Indomável</content>
 	<content contentuid="hb015b8bcg9783ge81ag0118gaa1388097f11" version="2">Se você falhar em um teste de resistência, poderá considerá-lo um sucesso. Depois de usar essa habilidade, você não poderá usá-la novamente até concluir um Descanso Prolongado.</content>
-	<content contentuid="h852a89d3g128fga1e5g2fedg98ddac129936" version="1">Se você falhar em um teste de resistência, pode considerá-lo um sucesso. </content>
+	<content contentuid="h852a89d3g128fga1e5g2fedg98ddac129936" version="1">Se você falhar em um teste de resistência, pode considerá-lo um sucesso.</content>
 	<content contentuid="h858b33e5g3b62g9b7fg692fg50cb883ac903" version="1">Mestre Tático: Avançar</content>
 	<content contentuid="h69435982g810ege56dgacebg3bb3b371ccd9" version="1">Além disso, você pode aplicar a propriedade de maestria &quot;Empurrar&quot; a esse ataque.</content>
 	<content contentuid="h6c90bdcbg9d73g2f85g8df7g47fbedfb078f" version="1">Nível 9: Mestre Tático</content>
@@ -330,7 +330,7 @@
 	<content contentuid="hdc98f803g35c5gf1e3g8979g2a5e77165301" version="1">Nível 10: Guerreiro Heroico</content>
 	<content contentuid="ha8f342f0g6dafg2cb0g07ffg5de2b08f710e" version="1">A emoção da batalha te leva à vitória. Durante o combate, você pode conceder a si mesmo Inspiração Heróica sempre que iniciar seu turno sem ela.</content>
 	<content contentuid="h6ae0967eg345cg0ef5g653cg5c51675a3b5a" version="1">Guerreiro Heróico: Repita o lançamento do dado do atacante</content>
-	<content contentuid="h7e67754bg739bg3c96gcd25g72c30f60a4d8" version="1">Obriga uma criatura a repetir seu &lt;LSTag Tooltip=&quot;AttackRoll&quot;&gt;teste de ataque&lt;/LSTag&gt;. </content>
+	<content contentuid="h7e67754bg739bg3c96gcd25g72c30f60a4d8" version="1">Obriga uma criatura a repetir seu &lt;LSTag Tooltip=&quot;AttackRoll&quot;&gt;teste de ataque&lt;/LSTag&gt;.</content>
 	<content contentuid="h81c64052g4f2bg8257g3f1ag716712683b25" version="1">Guerreiro Heróico: Repetir o lançamento com vantagem</content>
 	<content contentuid="h4dfef820g9b72g3d0egde23ga602945eec3c" version="1">Ganhe &lt;LSTag Tooltip=&quot;Advantage&quot;&gt;vantagem&lt;/LSTag&gt; no seu &lt;LSTag Tooltip=&quot;AttackRoll&quot;&gt;teste de ataque&lt;/LSTag&gt; ou &lt;LSTag Tooltip=&quot;SavingThrow&quot;&gt;na sua jogada de defesa&lt;/LSTag&gt;.</content>
 	<content contentuid="h40d89fa7ga96bgd2a5g9917g93f8ac20286b" version="1">Inspiração heróica</content>
@@ -1020,7 +1020,7 @@ Dano Bárdico. Você pode usar Destreza em vez de Força nos testes de ataque de
 	<content contentuid="h928f834egd673g4226g8299gfefdeb81958c" version="3">Furta-magia</content>
 	<content contentuid="h93fb8ea9gaf06g47b8ga01agebf185b6ef4f" version="3">Um filete de magia flui do arco até a sua mão... como uma promessa a se realizar.</content>
 	<content contentuid="h01dfd531g605ag4c72gb4edg3846ab351eae" version="2">Arco longo de caça</content>
-	<content contentuid="h16a91f2cg659dg4a91gbb02g7dd759e681be" version="2">Flexível e resistente, este arco longo foi imbuído da magia solene de um guardabosques — ao passar os dedos pelo freixo liso, é possível sentir essa solenidade como um fantasma na madeira esculpida. </content>
+	<content contentuid="h16a91f2cg659dg4a91gbb02g7dd759e681be" version="2">Flexível e resistente, este arco longo foi imbuído da magia solene de um guardabosques — ao passar os dedos pelo freixo liso, é possível sentir essa solenidade como um fantasma na madeira esculpida.</content>
 	<content contentuid="he018a0b1gcff3g09b2g3d95g49a55c223a0c" version="1">Aura de Vitalidade</content>
 	<content contentuid="h06e857edg3356g18f5gad4dge59b7d353e05" version="1">Aura de Vitalidade</content>
 	<content contentuid="hcd295819g3730gdba8g00feg2eb175ed488a" version="1">Aura de Vitalidade</content>
@@ -1349,7 +1349,7 @@ Cura. Cada vez que você restaura Pontos de Vida a uma criatura, ela recupera Po
 	<content contentuid="h7a075b74g69cagbeefg56f7gb257dbe077ac" version="1">Médico de campo</content>
 	<content contentuid="h7ca7faf7g389dge7bag91abg08e0440c9ca6" version="1">Kit do Curandeiro</content>
 	<content contentuid="h7617ab21g9a01g5fbcg9493ga7c3ac3dc194" version="1">Kit de Envenenador</content>
-	<content contentuid="ha2477884g01b8g19b8g2ca3g0ae325883ca5" version="1">Curador </content>
+	<content contentuid="ha2477884g01b8g19b8g2ca3g0ae325883ca5" version="1">Curador</content>
 	<content contentuid="hf4670cedg622ag16adgd7fbgf472400d198b" version="1">Médico de Batalha. Você ganha a capacidade de restaurar Pontos de Vida a uma criatura em uma quantidade igual a 1d8. Você pode usar essa capacidade um número de vezes igual ao seu Bônus de Proficiência, e recupera todas as utilizações gastas ao concluir um Descanso Prolongado.
 
 Cura. Cada vez que você restaura Pontos de Vida a uma criatura, ela recupera Pontos de Vida adicionais em uma quantidade igual ao seu Bônus de Proficiência.</content>
@@ -1535,15 +1535,14 @@ Inspirem os outros a lutar pela glória.</content>
 
 Além disso, sempre que um aliado entrar na sua Aura de Proteção pela primeira vez em um turno ou iniciar seu turno ali, a Velocidade desse aliado aumenta em 3 metros até o final do próximo turno dele.</content>
 	<content contentuid="h39f392e7g879agff67g5eafg1fbe11db0e2a" version="1">Nível 3: Feitiços do Juramento da Glória</content>
-	<content contentuid="hc41356d2g2208g0d0fg0023g8a9c6958aaac" version="1">A magia do seu juramento garante que você sempre tenha certos feitiços prontos. Ao atingir os níveis de Paladino especificados na tabela de Feitiços do Juramento da Glória, você passará a ter sempre os seguintes feitiços preparados: no 3º nível, Raio Guiado e Heroísmo; no 5º nível, Aumentar Habilidade e Arma Mágica; e no 9º nível, Aceleração e Proteção contra Energia.
-</content>
+	<content contentuid="hc41356d2g2208g0d0fg0023g8a9c6958aaac" version="1">A magia do seu juramento garante que você sempre tenha certos feitiços prontos. Ao atingir os níveis de Paladino especificados na tabela de Feitiços do Juramento da Glória, você passará a ter sempre os seguintes feitiços preparados: no 3º nível, Raio Guiado e Heroísmo; no 5º nível, Aumentar Habilidade e Arma Mágica; e no 9º nível, Aceleração e Proteção contra Energia.</content>
 	<content contentuid="he69c1c77gfc97gb4e2g7877gb843a6c497b6" version="1">Glória inspiradora</content>
 	<content contentuid="h46a88a7bg99ddgbfe4gc4aeg5843b027814d" version="2">Você pode usar uma vez o seu Juramento do Canal e distribuir Pontos de Vida Temporários entre as criaturas de sua escolha a até 9 metros de distância de você, incluindo você mesmo. O número total de Pontos de Vida Temporários é igual a 2d8 mais o seu nível de Paladino, distribuído entre as criaturas escolhidas da maneira que você preferir.</content>
 	<content contentuid="hb9b1e9b0g8892g5337gacb7g38aabc6e1177" version="1">Glória inspiradora</content>
 	<content contentuid="h142d77edg6f50gc87fg72f5g3158719e648d" version="1">Aura da Rapidez</content>
 	<content contentuid="h7a033e2cg8e6cgf063g4a3cgbbe483e2b4cf" version="1">Sua velocidade aumenta em 3 metros.</content>
 	<content contentuid="h28c5c053g608eg5d6cg49bdg9f3b8000ddfc" version="1">Nível 3: Golpes Terríveis</content>
-	<content contentuid="h9d7e1bf3g8ce5g97cdg6455g9d50ab2376ba" version="1">Você pode potencializar seus golpes com magia perturbadora, extraída das profundezas sombrias do Feywild. Ao acertar uma criatura com uma arma, você pode causar 1d4 de dano psíquico adicional ao alvo. O dano adicional aumenta para 1d6 quando você atingir o nível 11 de Caçador.</content>
+	<content contentuid="h9d7e1bf3g8ce5g97cdg6455g9d50ab2376ba" version="2">Você pode potencializar seus golpes com magia perturbadora, extraída das profundezas sombrias do Feywild. Ao acertar uma criatura com uma arma, você pode causar 1d4 de dano psíquico adicional ao alvo, que só pode sofrer esse dano extra uma vez por turno. O dano extra aumenta para 1d6 quando você atingir o nível 11 de Caçador.</content>
 	<content contentuid="h4b83ca6ag67bbga7f4gb3acgd0dc994c7828" version="1">Nível 3: Feitiços do Viajante Feérico</content>
 	<content contentuid="h4ae962aag1f80gf20eg9ad2g481c0cb2a1fe" version="2">Quando você atingir um nível de Ranger especificado na tabela de Feitiços do Viajante Feérico, a partir daí você sempre terá os feitiços listados preparados. No 3º nível, você sempre terá Feitiço de Encanto preparado; no 5º nível, Passo Nebuloso; e no 9º nível, Invocação de Feérico.</content>
 	<content contentuid="h4d499d8ag414fg53a9g921age039dc3c0999" version="1">Nível 3: Glamour sobrenatural</content>
@@ -1865,7 +1864,7 @@ Você tem vantagem em jogadas de resistência contra envenenamento.</content>
 	<content contentuid="he3cdc39cg8e39gb2e3gc628g38d8698d6dfb" version="1">Talento: Fúria Orc</content>
 	<content contentuid="h4b0f1e63g20c9gcc05ga203g340139e843f1" version="1">Quando você consegue um &lt;LSTag Tooltip=&quot;CriticalHit&quot;&gt;acerto crítico&lt;/LSTag&gt; com um ataque com arma corpo a corpo, você causa um dado extra de dano da arma.</content>
 	<content contentuid="h09b6e651g8c58gb250g73d8gf855f2d9b768" version="1">Fúria Orc</content>
-	<content contentuid="h505c9691gb92dg0066g1bd8gee8dbadfa730" version="1">Pré-requisito: &lt;br&gt;&lt;br&gt;Meio-orco. Quando você acerta um &lt;LSTag Tooltip=&quot;CriticalHit&quot;&gt;golpe crítico&lt;/LSTag&gt; com um ataque de arma branca, causa um dado extra de dano da arma. </content>
+	<content contentuid="h505c9691gb92dg0066g1bd8gee8dbadfa730" version="1">Pré-requisito: &lt;br&gt;&lt;br&gt;Meio-orco. Quando você acerta um &lt;LSTag Tooltip=&quot;CriticalHit&quot;&gt;golpe crítico&lt;/LSTag&gt; com um ataque de arma branca, causa um dado extra de dano da arma.</content>
 	<content contentuid="he151a721gdcf4gc33fg689cg1cae9782fe92" version="1">Agilidade no agachamento</content>
 	<content contentuid="h4512f4d8gc99aga64eg600bg8cac11c86e39" version="1">Pré-requisito: ser anão ou pertencer a uma raça&lt;br&gt;&lt;br&gt; de tamanho Pequeno. Você é excepcionalmente ágil para sua raça. &lt;br&gt;&lt;br&gt;Aumente sua velocidade de deslocamento em 1,5 metro.
 Você ganha proficiência na habilidade Acrobacia ou Atletismo (à sua escolha).
@@ -2058,7 +2057,7 @@ Você pode usar esse benefício um número de vezes igual ao seu Bônus de Profi
 
 Última Resistência. Você tem Vantagem em jogadas de ataque enquanto estiver Ferido.</content>
 	<content contentuid="h9de5f3bdgd036g8fc7gc000g9f162c3acfc6" version="1">Talento: Adepto do Fogo Mágico</content>
-	<content contentuid="h94e22d9cg05ceg0802gc712g372cd3b8f030" version="1">Os feitiços que você lança e os ataques que você realiza ignoram &lt;LSTag Tooltip=&quot;Resistant&quot;&gt;a Resistência&lt;/LSTag&gt; a dano Radiante. Além disso, quando você causa dano Radiante com um feitiço, não é possível obter um 1 no lançamento do dado. </content>
+	<content contentuid="h94e22d9cg05ceg0802gc712g372cd3b8f030" version="1">Os feitiços que você lança e os ataques que você realiza ignoram &lt;LSTag Tooltip=&quot;Resistant&quot;&gt;a Resistência&lt;/LSTag&gt; a dano Radiante. Além disso, quando você causa dano Radiante com um feitiço, não é possível obter um 1 no lançamento do dado.</content>
 	<content contentuid="h2d5b87b6g1172g67b5gcfefg0bf170e5aaef" version="1">Feito: Táticas Zhentarim</content>
 	<content contentuid="h06b8380ag7f73g106agdf63g8dabbadb964c" version="1">Retaliação. Imediatamente após uma criatura a até 1,5 metro de você acertá-lo com um ataque corpo a corpo, você pode realizar um Ataque de Oportunidade contra essa criatura.&lt;br&gt;&lt;br&gt;Mercenário Versátil. Escolha uma habilidade na qual você tenha proficiência. Você tem Perícia nessa habilidade.</content>
 	<content contentuid="h32fd92c5gd42cg926fgb1adg572674b52c38" version="1">Talento: Marcado pelo Dragão (Resistência ao Ácido)</content>
@@ -2112,7 +2111,7 @@ Você pode usar esse benefício um número de vezes igual ao seu Bônus de Profi
 
 Última Resistência. Você tem Vantagem em jogadas de ataque enquanto estiver Ferido.</content>
 	<content contentuid="he27e1f66g8aceg44b2gecc9g07a86e98de57" version="1">Adepto do Fogo Mágico</content>
-	<content contentuid="hf7ce49baga00eg630eg2b32g38d71accc648" version="1">Os feitiços que você lança e os ataques que você realiza ignoram &lt;LSTag Tooltip=&quot;Resistant&quot;&gt;a Resistência&lt;/LSTag&gt; a dano Radiante. Além disso, quando você causa dano Radiante com um feitiço, não é possível obter um 1 no lançamento do dado. </content>
+	<content contentuid="hf7ce49baga00eg630eg2b32g38d71accc648" version="1">Os feitiços que você lança e os ataques que você realiza ignoram &lt;LSTag Tooltip=&quot;Resistant&quot;&gt;a Resistência&lt;/LSTag&gt; a dano Radiante. Além disso, quando você causa dano Radiante com um feitiço, não é possível obter um 1 no lançamento do dado.</content>
 	<content contentuid="h868d132cgda3cg9662gc17ega94ac1ad380e" version="1">Táticas do Zhentarim</content>
 	<content contentuid="he09232a3g8429ge28bga994gd171ef3f3292" version="1">Retaliação. Imediatamente após uma criatura a até 1,5 metro de você acertá-lo com um ataque corpo a corpo, você pode realizar um Ataque de Oportunidade contra essa criatura.&lt;br&gt;&lt;br&gt;Mercenário Versátil. Escolha uma habilidade na qual você tenha proficiência. Você tem Especialização nessa habilidade.</content>
 	<content contentuid="h3566bf7ege17bg0f56g4fbdgfac65706f1a2" version="1">Ao criar seu personagem ou redefinir suas habilidades, escolha apenas uma habilidade de origem “Iniciado em Magia”. Selecionar mais de uma pode causar problemas inesperados.</content>
@@ -2188,8 +2187,7 @@ Além disso, escolha uma das seguintes habilidades: Trato com Animais, Intuiçã
 
 Ao lançar Raio Lunar, uma criatura à sua escolha que você possa ver a até 18 metros de distância de você recupera 2d4 pontos de vida.
 
-Depois de usar essa habilidade para modificar um lançamento de Raio Lunar, você não pode usá-la novamente até concluir um Descanso Prolongado.
-</content>
+Depois de usar essa habilidade para modificar um lançamento de Raio Lunar, você não pode usá-la novamente até concluir um Descanso Prolongado.</content>
 	<content contentuid="h4b8c5fb1g0cb0gdf42g5d1bgd60b7110c837" version="1">Eclipse Inspirado</content>
 	<content contentuid="h354b3d9ag3986g5438g5c7fg5f7f7196c4c4" version="1">Quando você usa uma Ação Bônus para conceder um dado de Inspiração Bárdica a uma criatura, você pode estar sob a condição Invisível e se teletransportar até 9 metros para um espaço desocupado que você possa ver como parte dessa Ação Bônus. Essa invisibilidade dura até o início do seu próximo turno e termina imediatamente após você fazer um teste de ataque, causar dano ou conjurar um feitiço.</content>
 	<content contentuid="ha0ddac76g013eg8574g0831g4fde2e2fef92" version="1">Eclipse Inspirado</content>
@@ -2220,11 +2218,11 @@ Um Banneret confia em seu discernimento, bravura e fidelidade ao código de cava
 	<content contentuid="hcc7a8ccdg1f74g8794gabebg481d991a2048" version="1">Táticas de equipe</content>
 	<content contentuid="hfb637e3bg85b6g0960g0cb5g7005f951cbcd" version="1">Tem vantagem em testes de D20 até o início do seu próximo turno.</content>
 	<content contentuid="ha112c9d1gc29dg2a81g78e9g5ee83dc15b44" version="1">Nível 3: Explorador Gélido</content>
-	<content contentuid="hdf72a045g6802g6864g7289gb8715a4c18b6" version="1">Frio Cortante. O dano causado por seus ataques com armas, feitiços de Caçador e características de Caçador ignora a Resistência a dano de frio.
+	<content contentuid="hdf72a045g6802g6864g7289gb8715a4c18b6" version="2">Frio Cortante. O dano causado por seus ataques com armas, feitiços de Caçador e características de Caçador ignora a Resistência a dano de frio.
 
-Resistência ao Gelo. Você possui Resistência a dano de frio.
+Resistência ao Gelo. Você tem Resistência a dano de frio.
 
-Golpes Polares. Ao acertar uma criatura com um teste de ataque usando uma arma, você pode causar 1d4 de dano de frio adicional ao alvo. Ao atingir o nível 11 de Caçador, esse dano adicional aumenta para 1d6.</content>
+Golpes Polares. Quando você acerta uma criatura com um teste de ataque usando uma arma, você pode causar 1d4 de dano de frio extra ao alvo, que só pode receber esse dano extra uma vez por turno. Quando você atingir o nível 11 de Caçador, esse dano extra aumenta para 1d6.</content>
 	<content contentuid="hf2ce8883g7e85g48fcgfb85geaec662b97b7" version="1">Nível 3: Geada do Caçador</content>
 	<content contentuid="hf17390fdg279dg4294gb86ag4e1049c6b097" version="1">O gelo cobre você e sua presa, protegendo você e prejudicando-a. Ao lançar a Marca do Caçador, você ganha Pontos de Vida Temporários iguais a 1d10 mais o seu nível de Caçador.
 
@@ -2817,7 +2815,7 @@ Nunca repita a mesma mentira duas vezes. Uma habilidade usada em excesso se torn
 	<content contentuid="h2cf5b57fgaa9bg9d02g3619g774b755bf5d6" version="1">Lâminas Doces como Mel</content>
 	<content contentuid="hc39bb1c4g3c5bg1b8fga689g2acf69286fc7" version="3">Quando você realizar um ataque com arma contra uma criatura Encantada, você pode ganhar Vantagem no teste de ataque (sem necessidade de ação). Se o ataque acertar, ele se torna um Acerto Crítico.</content>
 	<content contentuid="haaa5a699g83efg4475gf3ccge6f351a2d6a3" version="1">Lâminas Doces como Mel</content>
-	<content contentuid="h5a374292g71a7g1e85g586dgd611bb96eb66" version="2">Nível 11: Incontestável </content>
+	<content contentuid="h5a374292g71a7g1e85g586dgd611bb96eb66" version="2">Nível 11: Incontestável</content>
 	<content contentuid="hcd348f9fg9dfdgcf82g6f70g46a4195d00cc" version="1">As criaturas interditas sofrem desvantagem nos testes de resistência de Sabedoria e Carisma por 2 turnos.</content>
 	<content contentuid="h33cd96c8gfef6g7cc3gbc1bgefa0775f3774" version="1">Incontestável</content>
 	<content contentuid="h1cf49fe0g3fdeg6c4fg40c1g8ecbc6b95021" version="1">As criaturas interditas sofrem desvantagem nos testes de resistência de Sabedoria e Carisma por 2 turnos.</content>
@@ -3099,8 +3097,7 @@ Embora a vertente caótica da natureza esteja presente nesses druidas, seus corp
 	<content contentuid="he9c252edgc46cg4450gfb88g57508151df65" version="1">Nível 3: Círculo dos Feitiços Ininterrompidos</content>
 	<content contentuid="head50b7eg3179gbc89g1334gbee0de9d925c" version="1">Sua conexão com o Círculo Inquebrantável garante que você sempre tenha certos feitiços preparados. Quando você atingir um nível de druida especificado na tabela de Feitiços do Círculo Inquebrantável, a partir de então você sempre terá os feitiços listados preparados.
 
-No 3º nível, você sempre tem Golpe Enredador, Shillelagh, Golpe Brilhante e Golpe Certeiro preparados. No 5º nível, você sempre tem Aceleração preparada. No 7º nível, você sempre tem Escudo de Fogo preparada. No 9º nível, você sempre tem Golpe de Chama preparada.
-</content>
+No 3º nível, você sempre tem Golpe Enredador, Shillelagh, Golpe Brilhante e Golpe Certeiro preparados. No 5º nível, você sempre tem Aceleração preparada. No 7º nível, você sempre tem Escudo de Fogo preparada. No 9º nível, você sempre tem Golpe de Chama preparada.</content>
 	<content contentuid="h8ed0d8e9g85baga28cg5d7eg2778cf1bbf0a" version="1">Nível 3: Recuperação natural</content>
 	<content contentuid="heb2a7f7ag521bg6a02g5dffg52cdf49a9788" version="2">Você ganha a capacidade de se recuperar usando a magia selvagem e bestial que corre em suas veias. Como ação bônus, você pode gastar uma utilização de sua habilidade “Forma Selvagem” para recuperar um número de Pontos de Vida igual a 2d6 mais o seu nível de Druida. Essa cura aumenta em 1d6 quando você atinge os níveis 5 (3d6 mais o seu nível de Druida) e 10 (4d6 mais o seu nível de Druida) de Druida.</content>
 	<content contentuid="h7fe6e3e8gb94ag15c5g406eg227fcfa3c807" version="1">Nível 6: Domínio do Shillelagh</content>
@@ -3113,7 +3110,7 @@ No 3º nível, você sempre tem Golpe Enredador, Shillelagh, Golpe Brilhante e G
 	<content contentuid="hc064fa21ge684g65c0g9633g796b118177b3" version="1">Golpe Corrosivo</content>
 	<content contentuid="h33a83d2bg7e97g9bebg4b1ag640c88459c92" version="1">Causa dano adicional de ácido equivalente ao seu &lt;LSTag Tooltip=&quot;ProficiencyBonus&quot;&gt;bônus de proficiência&lt;/LSTag&gt;. Ao atingir, cria uma poça de ácido em torno do alvo que reduz a &lt;LSTag Tooltip=&quot;ArmourClass&quot;&gt;classe de armadura&lt;/LSTag&gt; em [1].</content>
 	<content contentuid="h93ef7658ga110g9063ga99fg02ab90d1135d" version="1">Névoa Venenosa</content>
-	<content contentuid="hbbc19e32g5427g3585gaaabg3a72c966a807" version="1">Inflige dano adicional de veneno igual ao seu &lt;LSTag Tooltip=&quot;ProficiencyBonus&quot;&gt;bônus de proficiência&lt;/LSTag&gt;. Ao acertar, envolve o alvo em uma nuvem tóxica que pode &lt;LSTag Type=&quot;Status&quot; Tooltip=&quot;POISONED&quot;&gt;envenenar&lt;/LSTag&gt; quem estiver dentro dela. </content>
+	<content contentuid="hbbc19e32g5427g3585gaaabg3a72c966a807" version="1">Inflige dano adicional de veneno igual ao seu &lt;LSTag Tooltip=&quot;ProficiencyBonus&quot;&gt;bônus de proficiência&lt;/LSTag&gt;. Ao acertar, envolve o alvo em uma nuvem tóxica que pode &lt;LSTag Type=&quot;Status&quot; Tooltip=&quot;POISONED&quot;&gt;envenenar&lt;/LSTag&gt; quem estiver dentro dela.</content>
 	<content contentuid="hed352d94g7b9dg3b87g2d2bgb0b679111113" version="1">Ao acertar, há uma chance de causar a condição “Queimadura”. Causa [1] de dano adicional a alvos com a condição “Queimadura”.</content>
 	<content contentuid="hfc73e10fg17e9g9f07gc85fg541d0d54d67b" version="1">Uma vez por turno, você pode envolver um alvo em &lt;LSTag Type=&quot;Status&quot; Tooltip=&quot;FAERIE_FIRE&quot;&gt;Fogo Fada&lt;/LSTag&gt; por [1] turnos caso falhe um ataque contra ele.</content>
 	<content contentuid="h420e8530gf543gee3dg23ebg5105a14fcc37" version="1">Artífice</content>
@@ -3528,9 +3525,9 @@ O dano passa a ser de 4d6 quando você atinge o nível 11 de Caçador de Monstro
 	<content contentuid="he03aadf1g28cbg5549g778fgff77ace6f7ba" version="1">Resposta Meditada (À Distância)</content>
 	<content contentuid="he571e586gc384gf9bbg0231g7c7be2144adc" version="1">Desapareça na escuridão e torne-se &lt;LSTag Type=&quot;Status&quot; Tooltip=&quot;INVISIBLE&quot;&gt;invisível&lt;/LSTag&gt;.</content>
 	<content contentuid="h87d3e26ag5e53gdf92g801cg4e8c26aac78e" version="1">Mago de Guerra: Lâmina Estrondosa</content>
-	<content contentuid="ha738254bg5dbag724ag511ag8d59cf1fed09" version="1">War Caster: Lâmina de Chama Verde</content>
-	<content contentuid="h7e0866bbgdec1g07c2g7725gef3c6eb68247" version="1">War Caster: Golpe certeiro</content>
-	<content contentuid="h664f7fdag1793g4256gd73cga50bae7c538a" version="1">War Caster: Lâmina Vingativa</content>
+	<content contentuid="ha738254bg5dbag724ag511ag8d59cf1fed09" version="1">Conjurador de Guerra: Lâmina de Chama Verde</content>
+	<content contentuid="h7e0866bbgdec1g07c2g7725gef3c6eb68247" version="1">Conjurador de Guerra: Golpe certeiro</content>
+	<content contentuid="h664f7fdag1793g4256gd73cga50bae7c538a" version="1">Conjurador de Guerra: Lâmina Vingativa</content>
 	<content contentuid="h67a39d88g2da4ga80bg2675g4c2a3e61a8ce" version="1">Mago de Guerra: Agarramento Elétrico</content>
 	<content contentuid="h58d3ea5cg20f9gc47cg638cg148f2229c69f" version="1">Lance um feitiço em uma criatura que esteja saindo do alcance.</content>
 	<content contentuid="hb9127c70g1995gf222g6ab6g02340332c0ad" version="1">Viking</content>
@@ -3556,4 +3553,76 @@ O dano passa a ser de 4d6 quando você atinge o nível 11 de Caçador de Monstro
 	<content contentuid="h97af1d74g3b7ega7c6g7dceg969a03ccef68" version="1">A outra grande linhagem de elfos das Terras do Norte vagueia pela tundra e pelas colinas geladas da Extensão Desolada em pequenos grupos, caçando caribus e mamutes montados em renas e tigres-dentes-de-sabre de pelagem branca. Os elfos do gelo são, em grande parte, isolados e ferozmente autossuficientes. Isso lhes rendeu a reputação de serem reservados, embora a verdade seja mais que eles têm pouco interesse pelo mundo exterior. Eles não esperam ajuda de forasteiros, nem a oferecem de bom grado. No entanto, os elfos do gelo às vezes se dispõem a negociar com humanos, anões e trollkin. Apesar do que acreditam os forasteiros ignorantes, apenas algumas comunidades de elfos do gelo adoram Bóreas e cumprem suas ordens, e a maioria não quer ter nada a ver com a divindade malévola.</content>
 	<content contentuid="hc4299a96g2f91ge777g37f1gc3a5dae657c3" version="1">Elfo do Gelo</content>
 	<content contentuid="h61b97fdcga929gadd6gfe5cgaff22e08890c" version="1">A outra grande linhagem de elfos das Terras do Norte vagueia pela tundra e pelas colinas geladas da Extensão Desolada em pequenos grupos, caçando caribus e mamutes montados em renas e tigres dente-de-sabre de pelagem branca. Os elfos do gelo são, em grande parte, isolados e ferozmente autossuficientes. Isso lhes rendeu a reputação de serem reservados, embora a verdade seja mais que eles tenham pouco interesse no mundo exterior. Eles não esperam ajuda de forasteiros, nem a oferecem de bom grado. No entanto, os elfos do gelo às vezes se dispõem a negociar com humanos, anões e trollkin. Apesar do que acreditam os forasteiros ignorantes, apenas algumas comunidades de elfos do gelo adoram Bóreas e cumprem suas ordens, e a maioria não quer ter nada a ver com a divindade malévola.</content>
+	<content contentuid="h23fe18adga21bgcce1g94begc4e07deb93fe" version="1">Guilda dos Devoradores</content>
+	<content contentuid="hae222c4fga6fbgac62g739fg68a9d81a56c3" version="1">O povo de Etharis nem sempre fala bem dos Caçadores de Monstros, e muitos os consideram tão depravados e desumanos quanto os males que eles derrotam. Muitas das histórias repugnantes sobre os Caçadores de Monstros podem ser atribuídas, direta ou indiretamente, à Guilda dos Devoradores, acusada de ser composta por canibais monstruosos.
+
+A verdade não é muito melhor. Os Devoradores passam os dias consumindo a carne e o sangue dos monstros que matam e, com o tempo, seu metabolismo se adaptou para tolerar essa prática repugnante. Os Devoradores sofrem mutações logo após consumir suas presas.</content>
+	<content contentuid="h3fd3cd39g82cdg6ea4gad4age341508f8cce" version="1">Nível 3: Metabolismo de transmutação</content>
+	<content contentuid="hf664a7b1g2fffg549cgf62dgbca83b181e57" version="1">Você ganha a capacidade de consumir os restos mortais de monstros, permitindo que seu corpo sofra mutações poderosas e aterrorizantes. Você pode se beneficiar das porções consumidas um número de vezes igual a 1 mais seu modificador de Inteligência (mínimo de 1). Após concluir um Descanso Prolongado, você recupera a capacidade de consumir porções. Você pode se beneficiar de várias porções simultaneamente, mas não pode obter a mesma mutação mais de uma vez ao mesmo tempo.</content>
+	<content contentuid="hf7edd0e4gc93dg9a16ga571g3e0626bf6d67" version="1">Nível 7: Resposta sincronizada</content>
+	<content contentuid="h020e73f6gf74eg8fa5ga3a2gc0e28b778b62" version="1">A ingestão de monstros aumenta sua compreensão sobre eles e seu comportamento. Você ganha este efeito adicional ao consumir uma porção de monstro: por 1 minuto, ao realizar um ataque como parte de uma Reação, você causa 1d6 de dano adicional.</content>
+	<content contentuid="h529b8a58gb300g1753gdff4gbd3ce84b211c" version="1">Nível 10: Fome voraz</content>
+	<content contentuid="h90ab5cd5g9998gb661g7d18ga57aad811d98" version="2">Sua ânsia pelo inimigo permite que você absorva sua essência durante a batalha. Quando você causa dano a uma criatura com um ataque corpo a corpo usando uma arma, você ganha 6 Pontos de Vida Temporários.</content>
+	<content contentuid="h2f0d1be4g0c48gc8dag5d46gb63613816d4b" version="1">Sangue ácido</content>
+	<content contentuid="hcae93600g722fg2de2g2f0fg60184d7ba2f0" version="1">Durante 1 minuto, seu sangue fica ácido. Sempre que uma criatura acertar você com um ataque estando a menos de 1,5 metro de distância, ela sofre 2d6 de dano ácido.</content>
+	<content contentuid="hfb4b4347g41f8gc00fg03eagf4da78649103" version="1">Perspicácia</content>
+	<content contentuid="h55f2832cg60b4gcd10g11f2g30f9e75aa0b9" version="1">Durante 1 hora, você tem Vantagem nos testes de Intuição, Intimidação e Persuasão.</content>
+	<content contentuid="h0332a04eg8429g6f00gada3gf49674ee7d97" version="1">Voo</content>
+	<content contentuid="hd356b0cdg39beg042eg81feg07e80f4dede3" version="1">Durante 10 minutos, crescem-lhe asas de couro, de penas ou espectrais nas costas. Você ganha uma Velocidade de Voo igual à sua Velocidade. Você não pode se beneficiar dessa mutação enquanto estiver usando Armadura Pesada.</content>
+	<content contentuid="h2eddaae5gd399g869eg1cdag9e9a178e24d8" version="1">Aromatizado</content>
+	<content contentuid="h2c602649g9292g91d9g709bg07327682e721" version="1">Escolha um dos seguintes tipos de dano: Ácido, Frio, Fogo, Elétrico, Veneno ou Trovão. Por 10 minutos, sempre que acertar um ataque com arma, você pode fazer com que ele cause o dano do tipo escolhido, em vez do tipo de dano normal.</content>
+	<content contentuid="haa67fd1eg0ed5g498egc4f2g2b0c0638ff09" version="1">Aromatizado: Ácido</content>
+	<content contentuid="h19df2915gdc32g0dd3g5c76gef59b78ad51f" version="1">Infusão: a frio</content>
+	<content contentuid="hb78a3ecdg7a33g2a60g7ee1g414456631317" version="1">Infundido: Fogo</content>
+	<content contentuid="h7953e4c5g1403g5956g4511gc857d6b9ce40" version="1">Infundido: Relâmpago</content>
+	<content contentuid="h9937e5c1g20b9gf010g9a9ag5025bbaebac2" version="1">Imbuído: Veneno</content>
+	<content contentuid="h6537ee84g1c9egec99gef96g0dc4308fed8c" version="1">Infundido: Trovão</content>
+	<content contentuid="h5eb0c1fbg30ddg233fgb6c8gefbdb310cc80" version="1">Invisibilidade</content>
+	<content contentuid="h9dbb965ag2bcegf72bg5bb2gc4f359dca388" version="1">Durante 10 minutos, você fica sob o efeito da condição “Invisível”. Esse efeito termina antecipadamente se você o cancelar (sem necessidade de ação), ou se você atacar ou lançar um feitiço.</content>
+	<content contentuid="hd01b6b25g66b1g66d5gcfaag271f0d12728a" version="1">Talvez</content>
+	<content contentuid="h95627a66gf92eg2d99g31e2ge9a622a94222" version="1">Durante 1 minuto, você tem Vantagem em testes de Força e jogadas de salvamento. Você também tem Vantagem em jogadas de ataque que utilizam Força e causa 1d6 de dano extra aos alvos que acertar com um ataque baseado em Força. O dano é do mesmo tipo causado pelo ataque.</content>
+	<content contentuid="hf72e3943ga838g8a6eg437fgf3e3b4cf0bde" version="1">Regeneração</content>
+	<content contentuid="h8a5acea8g48afg5d80g2670g4f92b9e54c1e" version="1">Você recupera Pontos de Vida equivalentes a 2d8 mais o seu nível de Caçador de Monstros.</content>
+	<content contentuid="h14ef410eg91c7g8763gfe5bge988b17c4434" version="1">Resistência</content>
+	<content contentuid="ha9065fa0gda11g9fbag0a9fgd56f197c42ac" version="1">Por 1 minuto, você ganha Resistência a danos por contusão, perfuração e corte.</content>
+	<content contentuid="h18dea430g0a51g9ce2g9dc4g23ab4802a3ec" version="1">Sangue ácido</content>
+	<content contentuid="h5b8f7438g5b18gdde5gc4dfga7996a555481" version="1">Durante 1 minuto, seu sangue fica ácido. Sempre que uma criatura acertar você com um ataque estando a menos de 1,5 metro de distância, ela sofre 2d6 de dano ácido.</content>
+	<content contentuid="h65822f22g5c0agbed4ga2dfg8ecf26db28f0" version="1">Perspicácia</content>
+	<content contentuid="h1865c71ag5eb9gf397gb7e8g3c4fd9f68123" version="1">Durante 1 hora, você tem Vantagem nos testes de Intuição, Intimidação e Persuasão.</content>
+	<content contentuid="h803ef2b4g9d5fg6bf7gcdfbge5aa148caa9d" version="1">Voo</content>
+	<content contentuid="hf0deee58g3421g39e9ge698g864491958c4a" version="1">Durante 10 minutos, crescem-lhe asas de couro, emplumadas ou espectrais nas costas. Você ganha uma Velocidade de Voo igual à sua Velocidade. Você não pode se beneficiar dessa mutação enquanto estiver usando Armadura Pesada.</content>
+	<content contentuid="hf927d573g7918gf498g9bedg56f31a1a2e84" version="1">Aromatizado: Ácido</content>
+	<content contentuid="hcd3296f0g5c52gf913g920agbba88bdced8b" version="1">Infundido: Fogo</content>
+	<content contentuid="h7954c79agf580gbf38gb998ga2c34ab9cde5" version="1">Infusão: a frio</content>
+	<content contentuid="h76c971ebgee3fgbdf8gc480g5b0e87d2e46b" version="1">Infundido: Relâmpago</content>
+	<content contentuid="hea98444ag27e9g0fbcg378bg8dec879945da" version="1">Imbuído: Veneno</content>
+	<content contentuid="ha8f80da7g749dg53f7g250cgcb2b053e8257" version="1">Infundido: Trovão</content>
+	<content contentuid="h14e14dcbg4d74gcb77g5954gf0d23d010934" version="1">Escolha um dos seguintes tipos de dano: Ácido, Frio, Fogo, Elétrico, Veneno ou Trovão. Por 10 minutos, sempre que acertar um ataque com uma arma, você poderá fazer com que ele cause o dano do tipo escolhido, em vez do tipo de dano normal.</content>
+	<content contentuid="h3f4646b9gb34dg645fg078cgf9f1a47d3ede" version="1">Talvez</content>
+	<content contentuid="h8bb68f75g3204gd036ge31dgd30865e8fc34" version="1">Durante 1 minuto, você tem Vantagem em testes de Força e jogadas de salvamento. Você também tem Vantagem em jogadas de ataque que usam Força e causa 1d6 de dano extra aos alvos que acertar com um ataque baseado em Força. O dano é do mesmo tipo causado pelo ataque.</content>
+	<content contentuid="h1a8a8630g2403gd97bg04dfg98e96ac14682" version="1">Resposta sincronizada</content>
+	<content contentuid="h153b4fe6g72f3g247fg04f1g5e857e482941" version="1">Durante 1 minuto, quando você realizar um ataque como parte de uma Reação, você causa 1d6 de dano adicional.</content>
+	<content contentuid="h6c54c1b3g4767g3527g4d8dg0d550177f041" version="1">Fome voraz</content>
+	<content contentuid="hdfb969fag7500g43bege6e0g5797aac03cfc" version="1">Sua ânsia pelo inimigo permite que você absorva sua essência durante a batalha. Quando você causa dano a uma criatura com um ataque corpo a corpo usando uma arma, você ganha 6 Pontos de Vida Temporários.</content>
+	<content contentuid="h0cb6fe74ga523ge60dgf112g667d31b003f8" version="1">Metabolismo de transmutação</content>
+	<content contentuid="h0805a747g80bagaf09g663ag5acb0587c8ac" version="1">Mordida</content>
+	<content contentuid="h0df6bd7eg5ba4g8c7fg7e50g95072f249ac3" version="2">O próximo teste de ataque realizado contra o alvo antes do início do próximo turno do worg tem Vantagem.</content>
+	<content contentuid="h71909c63g6997gca6eg3fd9gf0c3045cac19" version="1">Mordida</content>
+	<content contentuid="hf384310bg4b63gee6dga622g694c2ded1d00" version="1">O próximo teste de ataque realizado contra o alvo antes do início do próximo turno do worg tem Vantagem.</content>
+	<content contentuid="h39511b28g3843gdb43gabc4g14a37310891b" version="1">Se o alvo for uma criatura de tamanho Médio ou menor, ela fica na condição Deitada.</content>
+	<content contentuid="h3f843ebcg8610ga557g917ag613b7d8001e7" version="1">Nível 2: Vigor Diabólico</content>
+	<content contentuid="h18b3f8afg5a28g03a8gaefdg39fb7c01b1f4" version="1">Pré-requisito: Bruxo de nível 2 ou superior</content>
+	<content contentuid="he55ef41cg489dg2db3ga14bg076c3922f5be" version="1">Nível 3: Acólito do Oculto</content>
+	<content contentuid="h718ebc53g9616gcdc4ge2bcg846a784062a6" version="1">Você ganha proficiência na habilidade Arcana.</content>
+	<content contentuid="h6d45afc8gf3a4g9b53ge55cgee1e8ff20f84" version="1">Nível 3: Interferência Arcana</content>
+	<content contentuid="h5524efc2g3048g863bg33c2g18cfc27aae3e" version="1">Quando uma criatura que você consegue ver a até 18 metros de distância de você conjura um feitiço ou realiza um ataque mágico, você pode usar “Resposta Preparada” contra essa criatura antes que o feitiço seja conjurado.</content>
+	<content contentuid="hb92bcd84g4cddg1b78g08b9g7f8b71b93820" version="1">Interferência Arcana (Corpo a corpo)</content>
+	<content contentuid="hd1a7279cg4593g3e07ge351g2791a15d3b14" version="1">Quando uma criatura que você consegue ver a até 18 metros de distância de você conjura um feitiço ou realiza um ataque mágico, você pode usar “Resposta Preparada” contra essa criatura antes que o feitiço seja conjurado.</content>
+	<content contentuid="h3b16b3ffg2270g1432g326dg3d651266daf9" version="1">Interferência Arcana (À Distância)</content>
+	<content contentuid="h24d8b18eg6581ged0bg11fbge247a09545db" version="1">Nível 7: Caçador de Magos</content>
+	<content contentuid="hbc96befbg7948g8e5cgd0a9g9e23446bdc7b" version="1">Você tem Vantagem nos testes de resistência contra feitiços. Além disso, quando você causa dano a uma criatura que esteja concentrada, ela tem Desvantagem no teste de resistência que fizer para manter a Concentração.</content>
+	<content contentuid="ha194a5afge808ga991ga5a2g25513c2f607a" version="1">Nível 10: Conhecimento Ocultista</content>
+	<content contentuid="ha4715411g6f47gaa79ge8b7gb92d8781f1b0" version="1">Você aprende dois feitiços à sua escolha. Esses feitiços podem ser da lista de feitiços do Clérigo, do Druida ou do Mago, ou de qualquer combinação entre eles.</content>
+	<content contentuid="hb94ed556g5e70g8c49g722fge57833fe8a79" version="1">Guilda dos Ocultistas</content>
+	<content contentuid="ha52e0ea7g613bg7d1egefc0gbcb5735e1445" version="1">Em Etharis, há aqueles que temem a magia e aqueles que buscam compreendê-la. Os Caçadores de Monstros da Guilda dos Ocultistas sabem que pessoas de ambos os lados são igualmente perigosas. Um Ocultista investiga o arcano, o sobrenatural e o misterioso, evitando a influência da superstição ou da ideologia. Apesar de sua reputação como caçadores de magos, os Ocultistas não queimam seus inimigos na fogueira — eles os matam com a espada, pois é para isso que as espadas servem. O conhecimento e a magia dão aos Ocultistas uma vantagem sobre seus adversários místicos. Seus feitiços são usados para detectar e se defender contra arcanos perigosos e, acima de tudo, a magia é usada para destruir monstros que não podem ser feridos pelo aço.</content>
 </contentList>
