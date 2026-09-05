@@ -9914,6 +9914,12 @@ new entry "__MAGIC ITEM__"
 type "StatusData"
 data "StatusType" "BOOST"
 
+new entry "GOB_CALMNESS_IN_PAIN_ACTIVE"
+type "StatusData"
+data "StatusType" "BOOST"
+using "GOB_CALMNESS_IN_PAIN_ACTIVE"
+data "StatusPropertyFlags" "DisablePortraitIndicator"
+
 new entry "MAG_FIRE_HEAT"
 type "StatusData"
 data "StatusType" "BOOST"
