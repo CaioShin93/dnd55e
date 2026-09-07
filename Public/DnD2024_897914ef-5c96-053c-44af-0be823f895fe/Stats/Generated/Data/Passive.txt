@@ -5376,7 +5376,7 @@ data "PriorityOrder" "12106"
 data "EnabledConditions" "HasActionResource('SplitEnchantment', 1, 0, false, false, context.Source);"
 data "EnabledContext" "OnCastResolved;OnLongRest;OnActionResourcesChanged"
 data "Properties" "IsToggled;ToggledDefaultAddToHotbar;MetaMagic;Highlighted"
-data "Boosts" "UnlockSpellVariant(SplitEnchantmentProjectileSpellCheck(),ModifyNumberOfTargets(AdditiveBase,1,false),ModifyTooltipDescription(),ModifyIconGlow(),ModifyUseCosts(Add,SplitEnchantment,1,0));UnlockSpellVariant(SplitEnchantmentTargetSpellCheck(),ModifyNumberOfTargets(AdditiveBase,1,false),ModifyTooltipDescription(),ModifyIconGlow(),ModifyUseCosts(Add,SplitEnchantment,1,0));UnlockSpellVariant(SplitEnchantmentTargetTouchSpellCheck(),ModifyNumberOfTargets(AdditiveBase,1,false),ModifyTooltipDescription(),ModifyIconGlow(),ModifyUseCosts(Add,SplitEnchantment,1,0));"
+data "Boosts" "UnlockSpellVariant(SplitEnchantment(),ModifyNumberOfTargets(AdditiveBase,1,true),ModifyTooltipDescription(),ModifyIconGlow(),ModifyUseCosts(Add,SplitEnchantment,1,0));"
 data "ToggleOffContext" "OnCastResolved"
 
 new entry "SplitEnchantment_Resource"

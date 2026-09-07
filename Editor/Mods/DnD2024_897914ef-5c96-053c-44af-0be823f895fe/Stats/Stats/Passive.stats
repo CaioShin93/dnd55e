@@ -7320,7 +7320,7 @@
         <field name="EnabledConditions" type="StringTableFieldDefinition" value="HasActionResource('SplitEnchantment', 1, 0, false, false, context.Source);" />
         <field name="EnabledContext" type="EnumerationListTableFieldDefinition" value="OnCastResolved;OnLongRest;OnActionResourcesChanged" enumeration_type_name="StatsFunctorContext" version="1" />
         <field name="Properties" type="EnumerationListTableFieldDefinition" value="IsToggled;ToggledDefaultAddToHotbar;MetaMagic;Highlighted" enumeration_type_name="PassiveFlags" version="1" />
-        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpellVariant(SplitEnchantmentProjectileSpellCheck(),ModifyNumberOfTargets(AdditiveBase,1,false),ModifyTooltipDescription(),ModifyIconGlow(),ModifyUseCosts(Add,SplitEnchantment,1,0));UnlockSpellVariant(SplitEnchantmentTargetSpellCheck(),ModifyNumberOfTargets(AdditiveBase,1,false),ModifyTooltipDescription(),ModifyIconGlow(),ModifyUseCosts(Add,SplitEnchantment,1,0));UnlockSpellVariant(SplitEnchantmentTargetTouchSpellCheck(),ModifyNumberOfTargets(AdditiveBase,1,false),ModifyTooltipDescription(),ModifyIconGlow(),ModifyUseCosts(Add,SplitEnchantment,1,0));" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpellVariant(SplitEnchantment(),ModifyNumberOfTargets(AdditiveBase,1,true),ModifyTooltipDescription(),ModifyIconGlow(),ModifyUseCosts(Add,SplitEnchantment,1,0));" />
         <field name="ToggleOffContext" type="EnumerationListTableFieldDefinition" value="OnCastResolved" enumeration_type_name="StatsFunctorContext" version="1" />
       </fields>
     </stat_object>
